@@ -84,3 +84,33 @@ h1 {
 .card h3{
     font-size: 45px;
 }
+
+.lineup {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.eloado {
+    font-size: 60px;
+    color: rgba(201, 249, 154, 1);
+    justify-content: center;
+    padding-bottom: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.separator {
+    width: 8px;
+    background-color: rgba(253, 126, 20, 1);
+    height: 45px;
+    transform: translateY(10px);
+    display: block;
+    margin: 5px;
+}
+
+#lineup {
+    background-color: #02769c;
+}

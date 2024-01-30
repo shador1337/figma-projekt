@@ -1,0 +1,11 @@
+body {
+    background-color: #00A3DB;
+}
+
+#menu {
+    background-color: #00A3DB;
+    --bs-bg-opacity: 0.3;
+}
+
+.kep-cover {
+}

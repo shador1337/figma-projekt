@@ -2,6 +2,16 @@ body {
     background-color: #00A3DB;
 }
 
+nav a {
+    color: white;
+}
+
+#menu {
+    background-color: #00A3DB;
+    --bs-bg-opacity: 0.3;
+}
+
+
 .kep-cover {
     background-image: url(bg.jpg);
     background-color: #00A3DB;
@@ -15,6 +25,10 @@ body {
 
 .kep-cover h1{
     font-size: 100px;
+}
+
+h1 {
+    color: white;
 }
 
 .cover-szoveg {

@@ -13,9 +13,9 @@ nav a {
 }
 
 .navbar-brand img{
-    min-width: 78px;
-    max-width: 106px;
-    max-height: 106px;
+    min-width: 138px;
+    max-width: 156px;
+    max-height: 156px;
 }
 
 .kep-cover {
@@ -71,4 +71,16 @@ h1 {
 
 .dropdown-item:hover{
     background-color: #02769c;
+}
+
+.card{
+    background-color: #02769c;
+}
+
+.card a{
+    color: black;
+}
+
+.card h3{
+    font-size: 45px;
 }

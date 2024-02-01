@@ -114,3 +114,15 @@ h1 {
 #lineup {
     background-color: #02769c;
 }
+
+.kepp {
+    width: 600px;
+    height: 450px;
+}
+
+.boxx {
+    background-color: #02769c;
+    max-width: 90%;
+    max-height: 90%;
+    box-sizing: content-box;
+}
